@@ -1,5 +1,5 @@
-\boxed{
-```markdown
+
+
 # Video Subtitle Generator 🎬
 
 The Video Subtitle Generator is a Python application that allows users to upload a video file and generate an SRT file containing subtitles for the given video. The application makes use of the MoviePy library for extracting audio from video files and the AssemblyAI service to transcribe the audio into text and generate subtitles.
